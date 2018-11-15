@@ -1,4 +1,5 @@
 # QRCode.js
+用来生成二维码的插件，这是5页面使用的
 QRCode.js is javascript library for making QRCode. QRCode.js supports Cross-browser with HTML5 Canvas and table tag in DOM.
 QRCode.js has no dependencies.
 
